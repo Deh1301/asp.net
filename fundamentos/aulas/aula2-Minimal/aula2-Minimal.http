@@ -1,0 +1,6 @@
+@aula2_Minimal_HostAddress = http://localhost:5043
+
+GET {{aula2_Minimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

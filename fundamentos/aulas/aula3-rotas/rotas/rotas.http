@@ -1,0 +1,6 @@
+@rotas_HostAddress = http://localhost:5040
+
+GET {{rotas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

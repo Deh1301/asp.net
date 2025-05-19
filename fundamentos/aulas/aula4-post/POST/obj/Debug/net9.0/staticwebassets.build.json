@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A0tx5lmOy+Qhfjz6BSXHn7+57UGZ73VVcxI1+pw2eQA=",
+  "Source": "POST",
+  "BasePath": "_content/POST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

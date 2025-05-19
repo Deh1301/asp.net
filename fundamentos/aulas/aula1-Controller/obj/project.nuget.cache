@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdnQL8oJ3RA=",
+  "success": true,
+  "projectFilePath": "/home/andr/Documentos/ASP.NET/fundamentos/aulas/aula1-Controller/aula1-Controller.csproj",
+  "expectedPackageFiles": [
+    "/home/andr/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/andr/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
