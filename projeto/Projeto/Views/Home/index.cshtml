@@ -1,0 +1,15 @@
+@model Pessoa
+
+<form method="post" asp-controller="Home" asp-action="Index">
+    <label>Nome:</label>
+    <input type="text" name="Nome" />
+    <label>Idade:</label>
+    <input type="number" name="Idade" />
+    <button type="submit">Enviar</button>
+</form>
+
+@if (Model != null)
+{
+    <h1>Olá, @Model.Nome</h1>
+    <p>Você tem @Model.Idade anos.</p>
+}
